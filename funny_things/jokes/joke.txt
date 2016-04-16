@@ -1,0 +1,1 @@
+An SQL query walks into a bar and asks two tables, "Hey, can I join you?"

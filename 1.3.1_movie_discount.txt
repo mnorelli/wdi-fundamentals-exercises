@@ -1,0 +1,7 @@
+get patronAge
+
+if patronAge >= 65 set ticketPrice = 6
+if patronAge < 25 set ticketPrice = 8
+otherwise ticketPrice = 10
+
+charge ticketPrice
