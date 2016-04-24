@@ -18,3 +18,4 @@ function greatest(x,y,z) {
   else if ((y>x)&&(y>z)) {return y;}
   else if ((z>x)&&(z>y)) {return z;}
 }
+
