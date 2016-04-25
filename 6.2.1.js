@@ -7,7 +7,7 @@ var ounces = [];
 
 function convertToOunces() {
     for (c=0;c<cups.length;c+=1) {
-        ounces.push(cups[c]*16);
+        ounces.push(cups[c]*8);
     }
     return ounces;
 }
